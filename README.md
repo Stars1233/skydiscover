@@ -29,7 +29,7 @@ See the getting started page for quickstart guides for each.
 ## SkyDiscover Optimize
 
 <p align="center">
-  <img src="assets/architecture.png" width="720" alt="SkyDiscover architecture"><br>
+  <img src="assets/architecture.png" width="720" alt="SkyDiscover Optimize architecture"><br>
 </p>
 
 **SkyDiscover Optimize** is a modular framework for AI-driven scientific and algorithmic discovery, providing a unified interface for implementing, running, and fairly comparing discovery algorithms across 200+ optimization tasks.
@@ -42,8 +42,9 @@ Get started with our [quick start guide here](link-to-quickstart).
 
 ## SkyDiscover Synthesize
 
-<img width="870" height="376" alt="image" src="https://github.com/user-attachments/assets/4677b84d-47f4-4023-b3c8-646b249f47ed" />
-
+<p align="center">
+<img width="870" height="376" alt="SkyDiscover Synthesize Architecture" src="https://github.com/user-attachments/assets/4677b84d-47f4-4023-b3c8-646b249f47ed" />
+</p>
 
 **SkyDiscover Synthesize** is a set of tooling that enables full, end-to-end synthesis of compliant and highly-performant systems, such as LLM inference systems, model routing, or key-value stores. 
 
