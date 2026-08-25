@@ -42,7 +42,8 @@ Get started with our [quick start guide here](link-to-quickstart).
 
 ## SkyDiscover Synthesize
 
-![Test-Driven Synthesis](assets/test_driven_synthesis.png)
+<img width="870" height="376" alt="image" src="https://github.com/user-attachments/assets/4677b84d-47f4-4023-b3c8-646b249f47ed" />
+
 
 **SkyDiscover Synthesize** is a set of tooling that enables full, end-to-end synthesis of compliant and highly-performant systems, such as LLM inference systems, model routing, or key-value stores. 
 
