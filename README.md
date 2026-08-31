@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img src="assets/logo_vector.png" height="80" alt="SkyDiscover logo" style="vertical-align: middle;">&nbsp;
-
-  <b>SkyDiscover</b>
+  <img src="assets/lockup-dark-bg.svg" height="80" alt="SkyDiscover logo" style="vertical-align: middle;">&nbsp;
 </h1>
 
 
